@@ -82,5 +82,4 @@
 </tr>
   </tbody>
 </table>
-<p class="meta"><br/>Exported with Fritzing 0.9.3- http://fritzing.org</p>
 </body>
